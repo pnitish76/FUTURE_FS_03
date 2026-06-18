@@ -1,4 +1,4 @@
-# Jay Bhagwati Tools & Machinery Storefront
+# Jay Bhagwati Tools & Machinery 
 
 A premium, full-stack MERN (MongoDB, Express, React, Node) e-commerce storefront and industrial tools supply portal. Redesigned to serve as a modern digital showroom for Milcent flour mills, industrial machinery, power tools, and hardware accessories.
 
